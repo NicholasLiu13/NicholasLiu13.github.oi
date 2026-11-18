@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<>
+<body>
+    <title>My page</title>
+</head>
+    <p>paragraph</p>
+    <a href="about-me.html">about me</a>
+</body>
+</html>
